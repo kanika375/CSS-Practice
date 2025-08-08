@@ -8,4 +8,4 @@ This repo contains practice work while learning CSS layouts and components.
 - `FlexBox NavBar`: Responsive navbars using Flexbox
 - `MultColor NavBar`: Colorful navigation experiments
 - `Media Files`: Testing media queries and responsive design
-- `UltraEdit`: Custom styles created while exploring UltraEdit themeing
+- `UltraEdit`: Custom styles created while exploring UltraEdit theme
