@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    font-family: 'Segoe UI';
+}
+.right ul li{
+    display:flex;
+    align-items: center;
+    cursor:pointer;
+}
+.right ul li span{
+    padding:0px 5px;
+}
+.container {
+    padding: 10px;
+    display: grid;
+    gap: 40px;
+    grid-template-columns:1fr 1fr 1fr;
+}
+.container .box {
+    padding: 20px 40px;
+}
+.container .box h1,h2 {
+    margin-bottom: 30px;
+}
+.container button {
+    background-color: #5cb85c;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-weight: bolder;
+    border: none;
+    font-size: 17px;
+    margin-left: 110px;
+}
+.box {
+    background-color: #f9f9f9
+}
+.box h1, h2, p {
+    text-align: center;
+    line-height:200%;
+    font-family: sans-serif;
+}
+
+.text2 {
+    font-size: 12px;
+}
+h1{
+    font-weight: 800;
+}
+h2{
+    font-weight: 100;
+}
+div .first{
+    font-size: medium;
+}
+div .second{
+    font-size: smaller;
+}
